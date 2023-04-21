@@ -4,3 +4,4 @@ tensorflow-macos
 seaborn
 matplotlib
 numpy
+ipywidgets
