@@ -6,7 +6,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 Check out our [Project Video]() and [slide deck]() too
 
-1. Problem Definition
+## Problem Definition
 
 Independent artists struggle to predict Spotify song popularity, leading to various drawbacks:
   1. As an independent artist, it is difficult to gauge the potential popularity of a new song before releasing it on Spotify
@@ -24,14 +24,14 @@ This will allow independent artists to:
   4. Enables artists to identify strengths and weaknesses, facilitating artistic growth and improvement in future releases.
 
 
-2. Data Collection and Preperation
+## Data Collection and Preperation
 
 Raw Dataset used: https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=tracks.csv
 
 The DataPrepandCleaning notebook shows the cleaning and preparing process
 
 
-3. Exploratory Data Analysis / Visualisation
+## Exploratory Data Analysis / Visualisation
 
 The EDA notebook shows the data analysis process where each attribute and its relationship with populairty were explored.
 The analysis suggests that when evalauting popularity:
@@ -57,7 +57,7 @@ Negligble Factors:
 7. Tempo 
 9. Time_Signature
 
-4. Use of Machine Learning
+## Use of Machine Learning
 
 The ML Models notebook shows how various ML models were used to predict populairty and the evaluation of these models.
 
@@ -68,7 +68,7 @@ The ML Models notebook shows how various ML models were used to predict populair
 3. Decision Tree
 4. KNN
 
-5. Final Insights
+## Final Insights
 
 KNN algorithm gave us the best model to be used for prediction of popularity.
 
