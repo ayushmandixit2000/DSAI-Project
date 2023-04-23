@@ -89,4 +89,10 @@ Insights:
 - Feature Selection on Models to determine importance
 
 
+## Contributions
+Dixit Ayushman - EDA, KNN algorithm, final insights
+Summit Bajaj - Problem Formulation, Data Prep and Cleaning, 3 ML models
 
+## References
+https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=tracks.csv
+https://www.hypebot.com/hypebot/2020/12/stats-facts-data-independent-artists-need-to-know.html
