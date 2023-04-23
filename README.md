@@ -66,7 +66,7 @@ The ML Models notebook shows how various ML models were used to predict populair
 1. Linear Regression
 2. Random Forest
 3. Decision Tree
-4. KNN
+4. KNN (Found in new technique folder)
 
 ## Final Insights
 
