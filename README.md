@@ -91,6 +91,7 @@ Insights:
 
 ## Contributions
 Dixit Ayushman - EDA, KNN algorithm, final insights
+
 Summit Bajaj - Problem Formulation, Data Prep and Cleaning, 3 ML models
 
 ## References
