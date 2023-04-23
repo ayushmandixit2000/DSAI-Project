@@ -4,7 +4,7 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on datas from https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks?select=tracks.csv
 
-Check out our [Project Video](https://youtu.be/BEap-z8_gtE) and [Slide Deck]() too
+Check out our [Project Video](https://youtu.be/BEap-z8_gtE) and [Slide Deck](https://github.com/ayushmandixit2000/DSAI-Project/blob/main/DSAI%20Mini%20Project%20Slides.pdf) too
 
 ## Problem Definition
 
