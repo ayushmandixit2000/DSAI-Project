@@ -1,4 +1,4 @@
-# Predicitng song's populairty on spotify
+# Predicting song's populairty on spotify
 
 ## About
 
